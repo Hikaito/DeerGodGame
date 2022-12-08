@@ -21,7 +21,7 @@ Controls:
 - Left Click plants to remove
 - Left Click ground to add plants
 - Right Mouse + Drag to move camera
-- Right Mouse + Mouse Sroll to change camera zoom
+- Right Mouse + Mouse Scroll to change camera zoom
 
 ## Attributions
 We made all the assets used in this game ourselves, except for the music, which was downloaded from musopen.org. Much of the code used is adapted from tutorials for specific processes published on YouTube; many of these are linked in the code they inspired.
