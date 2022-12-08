@@ -17,5 +17,6 @@ We made all the assets used in this game ourselves, except for the music, which 
 The default seeds are
 - 42 for Flora
 - -50 for terrain
+
 These seeds can be changed in the Unity Editor on the Mesh Generator Script of the Mesh Generator object to procedurally generate new shapes and distributions of flora.
 The actual probabilities for different biomes can be adjusted with the transition matricies of the Mesh Generation object.
