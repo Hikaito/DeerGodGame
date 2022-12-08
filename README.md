@@ -18,8 +18,8 @@ Controls:
 - SPACE to jump
 - WASD + LSHIFT to dash
 - WASD + LCTRL to hyperdash
-- click plants to remove
-- click ground to add plants
+- Left Click plants to remove
+- Left Click ground to add plants
 - Right Mouse + Drag to move camera
 - Right Mouse + Mouse Sroll to change camera zoom
 
