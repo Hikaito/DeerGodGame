@@ -11,3 +11,11 @@ Open the folder GithubGraphics2 in Unity 2020.3.26f1 (although it should be comp
 
 ## Attributions
 We made all the assets used in this game ourselves, except for the music, which was downloaded from musopen.org. Much of the code used is adapted from tutorials for specific processes published on YouTube; many of these are linked in the code they inspired.
+
+
+## Procedural Generation
+The default seeds are
+- 42 for Flora
+- -50 for terrain
+These seeds can be changed in the Unity Editor on the Mesh Generator Script of the Mesh Generator object to procedurally generate new shapes and distributions of flora.
+The actual probabilities for different biomes can be adjusted with the transition matricies of the Mesh Generation object.
