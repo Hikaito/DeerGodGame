@@ -8,3 +8,6 @@ This is our project for The University of Texas at Dallas CS 4361 Computer Graph
 
 ## How to Run
 Open the folder GithubGraphics2 in Unity 2020.3.26f1 (although it should be compatible with other versions of Unity 2020). To run the game in the editor, open the MainScene in Assets/_Project/Scenes. To compile into an executable, open the Build Settings menu, choose the proper platform (PC, Mac & Linux Standalone) and select Build button. Make sure the MainScene is included in Scenes In Build in the build menu.
+
+## Attributions
+We made all the assets used in this game ourselves, except for the music, which was downloaded from musopen.org. Much of the code used is adapted from tutorials for specific processes published on YouTube; many of these are linked in the code they inspired.
