@@ -1,6 +1,8 @@
 # Deer God Game
 This is our project for The University of Texas at Dallas CS 4361 Computer Graphics with Dr. Kumar Fall 2022.
 
+A simple 3d game with a relaxing aesthetic, control a nature spirit in the form of a deer as you explore and terraform a small world to your liking.
+
 ## Contributors
 - Jordan Frimpter
 - Henry Kim
