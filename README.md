@@ -12,6 +12,17 @@ Open the folder GithubGraphics2 in Unity 2020.3.26f1 (although it should be comp
 
 IT IS IMPORTANT for Git LFS to be installed and configured correctly when forking or cloning, otherwise the models may not download with the rest of the project.
 
+## How To Play
+Controls:
+- WASD to move
+- SPACE to jump
+- WASD + LSHIFT to dash
+- WASD + LCTRL to hyperdash
+- click plants to remove
+- click ground to add plants
+- Right Mouse + Drag to move camera
+- Right Mouse + Mouse Sroll to change camera zoom
+
 ## Attributions
 We made all the assets used in this game ourselves, except for the music, which was downloaded from musopen.org. Much of the code used is adapted from tutorials for specific processes published on YouTube; many of these are linked in the code they inspired.
 
